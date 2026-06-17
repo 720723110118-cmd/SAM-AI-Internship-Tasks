@@ -1,0 +1,23 @@
+# Docker Container Setup
+
+## Objective
+This project demonstrates the basic setup and usage of Docker containers.
+
+## Tasks Completed
+- Installed Docker
+- Created a Dockerfile
+- Built a Docker image
+- Ran a Docker container
+- Exposed the application on a local port
+- Tested container accessibility
+
+## Files
+- Dockerfile
+- index.html (or app files)
+- README.md
+
+## Docker Commands Used
+
+Build Image:
+```bash
+docker build -t myapp .
